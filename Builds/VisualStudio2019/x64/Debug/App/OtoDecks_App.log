@@ -1,0 +1,10 @@
+﻿  playListComponent.cpp
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(66,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(69,20): warning C4100: 'height': unreferenced formal parameter
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(69,9): warning C4100: 'width': unreferenced formal parameter
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(68,60): warning C4100: 'rowNumber': unreferenced formal parameter
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(84,22): warning C4100: 'rowIsSelected': unreferenced formal parameter
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(83,9): warning C4100: 'columnId': unreferenced formal parameter
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(89,10): warning C4100: 'isRowSelected': unreferenced formal parameter
+F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Source\playListComponent.cpp(108,9): warning C4189: 'id': local variable is initialized but not referenced
+  OtoDecks_App.vcxproj -> F:\ROVJwjDATYqlScIwwJ2KzQ_67c3e62527484e62b98e3f78421782e1_OtoDecks_start_topic_10_v3\OtoDecks_start_topic_10\Builds\VisualStudio2019\x64\Debug\App\OtoDecks.exe
